@@ -1,0 +1,10 @@
+[package]
+name = "lzfdecompress"
+version = "0.1.0"
+authors = ["Kristofer Jarl <kristofer.jarl@gmail.com>"]
+license = "MIT"
+description = "Just a small app I use at work for unpacking lzf compressed content"
+keywords = ["lzf", "compression"]
+
+[dependencies]
+lzf_headers = "0.1.1"
